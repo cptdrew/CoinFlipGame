@@ -1,0 +1,15 @@
+# Java Class Files
+*.class
+
+# Generated Files
+bin/
+gen/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Log Files
+log/
+*.log
